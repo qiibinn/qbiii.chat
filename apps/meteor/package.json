@@ -214,7 +214,7 @@
 		"@rocket.chat/model-typings": "workspace:^",
 		"@rocket.chat/models": "workspace:^",
 		"@rocket.chat/mp3-encoder": "^0.31.15-dev.6",
-		"@rocket.chat/onboarding-ui": "~0.32.0-dev.73",
+		"@rocket.chat/onboarding-ui": "~0.32.0-dev.163",
 		"@rocket.chat/poplib": "workspace:^",
 		"@rocket.chat/rest-typings": "workspace:^",
 		"@rocket.chat/string-helpers": "~0.31.15-dev.6",
